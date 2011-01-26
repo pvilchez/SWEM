@@ -8,7 +8,7 @@
 The purpose of this project is to determine if natural resources such as wind and solar energy can be harvested at the site in Kibombomene to provide power to the school in the community. To that end, this solar and wind energy measuring (SWEM) device would measure data at the school site and store this data for one year in order to give a better 
 understanding of the local weather conditions.
 
-The following sensors are used in this device based on their fulﬁlment of the constraints, criteria and by their compatibility with the rest of the system: 
+The following sensors are used in this device based on their fulﬁllment of the constraints, criteria and by their compatibility with the rest of the system: 
 	the Davis Instruments 7911 anemometer/potentiometer; 
 	the Apogee Instruments SP212 pyranometer sensor; and
 	the Arduino starter kit thermistor
